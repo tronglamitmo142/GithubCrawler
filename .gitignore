@@ -33,3 +33,6 @@ target/
 
 ## some tests generate .csv files
 *.csv
+
+##
+config.py

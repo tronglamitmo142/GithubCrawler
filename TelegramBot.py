@@ -1,7 +1,8 @@
 import telebot
+import config
 from GithubCrawler import GithubCrawler
 
-bot = telebot.TeleBot("5444331349:AAEwF-iYda1HRmfWrFg7_lN6oDXU4l2fglk")
+bot = telebot.TeleBot(config.TELEGRAM_TOKEN)
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
