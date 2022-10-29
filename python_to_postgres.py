@@ -3,15 +3,8 @@ from sqlite3 import DatabaseError
 import psycopg2
 from psycopg2 import sql
 from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
+from config import DATABASE_CONFIG
 
-
-
-DATABASE_CONFIG = {
-    'dbname': 'postgres',
-    'user': 'nguyenlam',
-    'password': 'zxcvbnm@12345',
-    'host': 'localhost'
-}
 
 def get_connection():
     return psycopg2.connect(
