@@ -1,0 +1,212 @@
+[
+  {
+    "repoFullName": "codeinthedark/editor",
+    "url": "https://github.com/codeinthedark/editor",
+    "owner": "codeinthedark",
+    "description": "The official Code in the Dark editor",
+    "language": "HTML"
+  },
+  {
+    "repoFullName": "lepture/editor",
+    "url": "https://github.com/lepture/editor",
+    "owner": "lepture",
+    "description": "A markdown editor. http://lab.lepture.com/editor/",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "maputnik/editor",
+    "url": "https://github.com/maputnik/editor",
+    "owner": "maputnik",
+    "description": "An open source visual editor for the 'Mapbox Style Specification'",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "microsoft/monaco-editor",
+    "url": "https://github.com/microsoft/monaco-editor",
+    "owner": "microsoft",
+    "description": "A browser based code editor",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "owner": "atom",
+    "description": ":atom: The hackable text editor",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "BabylonJS/Editor",
+    "url": "https://github.com/BabylonJS/Editor",
+    "owner": "BabylonJS",
+    "description": "Community managed visual editor for Babylon.js",
+    "language": "TypeScript"
+  },
+  {
+    "repoFullName": "wangeditor-team/wangEditor",
+    "url": "https://github.com/wangeditor-team/wangEditor",
+    "owner": "wangeditor-team",
+    "description": "wangEditor \u2014\u2014 \u5f00\u6e90 Web \u5bcc\u6587\u672c\u7f16\u8f91\u5668",
+    "language": "TypeScript"
+  },
+  {
+    "repoFullName": "pandao/editor.md",
+    "url": "https://github.com/pandao/editor.md",
+    "owner": "pandao",
+    "description": "The open source embeddable online markdown editor (component).",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "yabwe/medium-editor",
+    "url": "https://github.com/yabwe/medium-editor",
+    "owner": "yabwe",
+    "description": "Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "codex-team/editor.js",
+    "url": "https://github.com/codex-team/editor.js",
+    "owner": "codex-team",
+    "description": "A block-styled editor with clean JSON output",
+    "language": "TypeScript"
+  },
+  {
+    "repoFullName": "swagger-api/swagger-editor",
+    "url": "https://github.com/swagger-api/swagger-editor",
+    "owner": "swagger-api",
+    "description": "Swagger Editor",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "nhn/tui.editor",
+    "url": "https://github.com/nhn/tui.editor",
+    "owner": "nhn",
+    "description": "\ud83c\udf5e\ud83d\udcdd Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.",
+    "language": "TypeScript"
+  },
+  {
+    "repoFullName": "audacity/audacity",
+    "url": "https://github.com/audacity/audacity",
+    "owner": "audacity",
+    "description": "Audio Editor                                     ",
+    "language": "C"
+  },
+  {
+    "repoFullName": "benweet/stackedit",
+    "url": "https://github.com/benweet/stackedit",
+    "owner": "benweet",
+    "description": "In-browser Markdown editor",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "ajaxorg/ace",
+    "url": "https://github.com/ajaxorg/ace",
+    "owner": "ajaxorg",
+    "description": "Ace (Ajax.org Cloud9 Editor)",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "dnSpy/dnSpy",
+    "url": "https://github.com/dnSpy/dnSpy",
+    "owner": "dnSpy",
+    "description": ".NET debugger and assembly editor",
+    "language": "C#"
+  },
+  {
+    "repoFullName": "xi-editor/xi-editor",
+    "url": "https://github.com/xi-editor/xi-editor",
+    "owner": "xi-editor",
+    "description": "A modern editor with a backend written in Rust.",
+    "language": "Rust"
+  },
+  {
+    "repoFullName": "jdorn/json-editor",
+    "url": "https://github.com/jdorn/json-editor",
+    "owner": "jdorn",
+    "description": "JSON Schema Based Editor",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "summernote/summernote",
+    "url": "https://github.com/summernote/summernote",
+    "owner": "summernote",
+    "description": "Super simple WYSIWYG editor",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "hinesboy/mavonEditor",
+    "url": "https://github.com/hinesboy/mavonEditor",
+    "owner": "hinesboy",
+    "description": "mavonEditor - A markdown editor based on Vue that supports a variety of personalized features",
+    "language": "Vue"
+  },
+  {
+    "repoFullName": "billthefarmer/editor",
+    "url": "https://github.com/billthefarmer/editor",
+    "owner": "billthefarmer",
+    "description": "Android simple text editor",
+    "language": "Java"
+  },
+  {
+    "repoFullName": "mapeditor/tiled",
+    "url": "https://github.com/mapeditor/tiled",
+    "owner": "mapeditor",
+    "description": "Flexible level editor",
+    "language": "C++"
+  },
+  {
+    "repoFullName": "sparksuite/simplemde-markdown-editor",
+    "url": "https://github.com/sparksuite/simplemde-markdown-editor",
+    "owner": "sparksuite",
+    "description": "A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "burhanrashid52/PhotoEditor",
+    "url": "https://github.com/burhanrashid52/PhotoEditor",
+    "owner": "burhanrashid52",
+    "description": "A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.",
+    "language": "Kotlin"
+  },
+  {
+    "repoFullName": "fex-team/kityminder-editor",
+    "url": "https://github.com/fex-team/kityminder-editor",
+    "owner": "fex-team",
+    "description": "Powerful Mindmap Editing Tool",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "froala/wysiwyg-editor",
+    "url": "https://github.com/froala/wysiwyg-editor",
+    "owner": "froala",
+    "description": "The next generation Javascript WYSIWYG HTML Editor.",
+    "language": "CSS"
+  },
+  {
+    "repoFullName": "kode-team/editor",
+    "url": "https://github.com/kode-team/editor",
+    "owner": "kode-team",
+    "description": "Fantastic Web Design Tool ",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "surmon-china/vue-quill-editor",
+    "url": "https://github.com/surmon-china/vue-quill-editor",
+    "owner": "surmon-china",
+    "description": "@quilljs editor component for @vuejs(2)",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "codemirror/codemirror5",
+    "url": "https://github.com/codemirror/codemirror5",
+    "owner": "codemirror",
+    "description": "In-browser code editor (version 5, legacy)",
+    "language": "JavaScript"
+  },
+  {
+    "repoFullName": "EasyRPG/Editor",
+    "url": "https://github.com/EasyRPG/Editor",
+    "owner": "EasyRPG",
+    "description": "Game editor similar to RPG Maker",
+    "language": "C++"
+  }
+]
